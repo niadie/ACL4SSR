@@ -1,6 +1,16 @@
 # 直连列表
 
 # MyList
+DOMAIN-SUFFIX,x3322.net
+DOMAIN-SUFFIX,oicp.net
+DOMAIN-SUFFIX,xicp.net
+DOMAIN-SUFFIX,pianyuan.org
+DOMAIN-SUFFIX,ddys.site
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,clawcloudrun.com
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
@@ -720,3 +730,4 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,smartisan.com
