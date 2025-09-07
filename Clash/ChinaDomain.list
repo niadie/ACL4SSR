@@ -1,10 +1,13 @@
 # 直连列表
 
 # MyList
+DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,metalbak.dpdns.org
 DOMAIN-SUFFIX,metalsolo.dpdns.org
 DOMAIN-SUFFIX,smartsolo.dpdns.org
 DOMAIN-SUFFIX,smartisan.dpdns.org
+DOMAIN-SUFFIX,dns-dynamic.net
+DOMAIN-SUFFIX,smartisan.dns-dynamic.net
 DOMAIN-SUFFIX,vicp.net
 DOMAIN-SUFFIX,x3322.net
 DOMAIN-SUFFIX,oicp.net
@@ -734,5 +737,6 @@ DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,smartisan.com
+DOMAIN-SUFFIX,yun.smartisan.com
 DOMAIN-SUFFIX,snote.ink
 DOMAIN-SUFFIX,oray.com
