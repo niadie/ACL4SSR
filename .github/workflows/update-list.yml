@@ -1,0 +1,32 @@
+name: Update ChinaDmCT.list
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # 每小时运行一次（UTC 时间）
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Get latest commit hash
+        id: gethash
+        run: |
+          FILE_PATH="Clash/ChinaDmCT.list"
+          HASH=$(curl -s "https://api.github.com/repos/niadie/ACL4SSR/commits?path=$FILE_PATH&per_page=1" | jq -r '.[0].sha')
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+
+      - name: Download latest file
+        run: |
+          curl -sL "https://raw.githubusercontent.com/niadie/ACL4SSR/${{ steps.gethash.outputs.hash }}/Clash/ChinaDmCT.list" -o ChinaDmCT-latest.list
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ChinaDmCT-latest.list
+          git commit -m "Update ChinaDmCT-latest.list"
+          git push
