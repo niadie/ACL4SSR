@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,x.com
+
+# Grok-AI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
