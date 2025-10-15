@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,winscp.net
 DOMAIN-SUFFIX,internetdownloadmanager.com
 DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,sap.com
+DOMAIN-SUFFIX,ondemand.com
 
 # Google
 DOMAIN-SUFFIX,c.gle
