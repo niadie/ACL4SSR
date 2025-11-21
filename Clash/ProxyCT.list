@@ -1,15 +1,12 @@
 # 代理列表
 
 # MyList && Other
-DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,userscript.zone
 DOMAIN-SUFFIX,openuserjs.org
 DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,winscp.net
-DOMAIN-SUFFIX,internetdownloadmanager.com
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,sap.com
 DOMAIN-SUFFIX,ondemand.com
@@ -18,5 +15,4 @@ DOMAIN-SUFFIX,steelseries.com
 
 # Google
 DOMAIN-SUFFIX,c.gle
-DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,nel.goog
