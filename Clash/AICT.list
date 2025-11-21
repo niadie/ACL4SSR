@@ -1,7 +1,6 @@
 # Gemini移动端
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 # Google AI工作室
-DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,clients6.google.com
 # Google 文生视频
 DOMAIN-SUFFIX,labs.google
