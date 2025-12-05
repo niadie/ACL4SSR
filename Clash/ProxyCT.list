@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,sap.com
 DOMAIN-SUFFIX,ondemand.com
 DOMAIN-SUFFIX,databricks.com
 DOMAIN-SUFFIX,steelseries.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redd.it
 
 # Google
 DOMAIN-SUFFIX,c.gle
