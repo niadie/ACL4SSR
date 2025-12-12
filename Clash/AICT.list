@@ -7,5 +7,3 @@ DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 # GPT语音
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
-# 其他
-DOMAIN-SUFFIX,lmarena.ai
