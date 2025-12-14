@@ -1,0 +1,25 @@
+# 主站
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com
+# 账户、权限、接口、模型信息
+DOMAIN-SUFFIX,openai.com
+# 前端 JS / CSS
+DOMAIN-SUFFIX,oaistatic.com
+# 生成的图片、文件、音视频、素材等
+DOMAIN-SUFFIX,oaiusercontent.com
+# API文档、分发资源
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+# 人机验证
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+# 登录、第三方认证
+DOMAIN-SUFFIX,auth0.com
+# 功能开关
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+# GPT语音
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# 客服、提示弹窗
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+# SSL证书服务
+DOMAIN-SUFFIX,identrust.com
